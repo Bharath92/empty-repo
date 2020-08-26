@@ -1,7 +1,7 @@
 pipelines:
-  - name: basic
+  - name: basic2
     steps:
-      - name: basic
+      - name: basic2
         type: Bash
         configuration:
           runtime:
